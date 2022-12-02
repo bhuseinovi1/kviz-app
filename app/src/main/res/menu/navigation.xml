@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/kvizovi"
+        android:icon="@android:drawable/ic_dialog_info"
+        android:title="Kvizovi"/>
+
+    <item
+        android:id="@+id/upisDugme"
+        android:icon="@android:drawable/ic_dialog_map"
+        android:title="Predmeti"/>
+
+
+    <item
+        android:id="@+id/predajKviz"
+        android:icon="@android:drawable/ic_menu_send"
+        android:title="Predaj kviz"/>
+
+    <item
+        android:id="@+id/zaustaviKviz"
+        android:icon="@android:drawable/btn_dialog"
+        android:title="Zaustavi kviz"/>
+
+</menu>
