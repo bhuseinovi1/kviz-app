@@ -11,5 +11,3 @@ Ne mijenjajte naziv aplikacije niti početnih paketa.
 | Belmin Huseinović     | 18365  | UTO 12:00 |
 
 &nbsp;
-
-Vaš projekat postavite na privatni repozitorij na Bitbucket-u sa nazivom RMA21PNNNNN, gdje je _NNNNN_ broj indexa. Projekat podijelite sa asistentima.
